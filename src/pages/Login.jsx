@@ -93,7 +93,7 @@ const Login = () => {
 
       } catch (error) {
         console.log(error)
-        toast.error(err?.response?.data?.message || "Something went wrong", {
+        toast.error(error?.response?.data?.message || "Something went wrong", {
           id: toastId,
         });
       }finally{
