@@ -92,7 +92,7 @@ const Login = () => {
         });
 
       } catch (error) {
-        console.log(err)
+        console.log(error)
         toast.error(err?.response?.data?.message || "Something went wrong", {
           id: toastId,
         });
