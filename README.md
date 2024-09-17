@@ -3,7 +3,7 @@
 # ChatApp
 
 ## Overview
-ChatApp is a real-time messaging application built using React.js for the frontend and Node.js for the backend. It allows users to communicate instantly with each other through text messages. This application uses WebSockets for real-time communication and MongoDB for data storage.
+ChatApp is a real-time messaging application built using React.js for the frontend and Node.js for the backend. It allows users to communicate instantly with each other through text messages. This application uses WebSockets for real-time communication and MongoDB for data storage. 
 
 
 
